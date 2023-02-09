@@ -86,3 +86,26 @@ img {
     color: #16d887;
     margin-right: 7px;
 }
+
+/* ----------Plane Section---------- */
+.plane {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.plane h1 {
+    font-size: 34px;
+    margin-bottom: 35px;
+}
+
+.plane-boxes {
+    display: flex;
+}
+
+.plane-box {
+    width: 234px;
+}
+
+.plane-box img {
+    width: 65px;
+}
